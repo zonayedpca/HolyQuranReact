@@ -1,0 +1,21 @@
+{
+  "name": "quransharif",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://zonayedpca.github.io/HolyQuranReact",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
