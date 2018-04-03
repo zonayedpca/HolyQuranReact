@@ -4,7 +4,7 @@
 ## Package Install
 ```npm install```
 
-## Developmet
+## Development
 ```npm start```
 
 ## Setting Up Your Homepage
