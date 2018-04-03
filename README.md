@@ -1,5 +1,5 @@
 ## Live Demo
-[https://zonayedpca.github.io/HolyQuranReact]https://zonayedpca.github.io/HolyQuranReact
+[See in live](https://zonayedpca.github.io/HolyQuranReact)
 
 ## Package Install
 ```npm install```
@@ -8,11 +8,11 @@
 ```npm start```
 
 ## Build
-npm run build
+```npm run build```
 
 ## Thanks
-Google
-Browser Location
-React
-Bootstrap
-And so on
+- Google
+- Browser Location
+- React
+- Bootstrap
+- And so on
