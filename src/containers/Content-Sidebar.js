@@ -12,6 +12,7 @@ class ContentSidebar extends Component {
     selectSurah(num) {
         this.props.getASurah(num);
         this.props.getASurahEn(num);
+        document.querySelector('.content').scrollTop = 0;
     }
 
     render() {
